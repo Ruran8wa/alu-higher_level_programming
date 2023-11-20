@@ -1,3 +1,10 @@
 #!/usr/bin/python3
-#this is an empty class Square that defines a square
+"""
+THIS CODE CONTAINS NO MODULES
+"""
+
+
 class Square():
+    """
+    CLASS IS A SQUARE CLASS AND IS EMPTY
+    """
