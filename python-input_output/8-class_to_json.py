@@ -7,7 +7,7 @@ class MyClass:
     """ My class
     """
 
-    def __init__(self, name):
+    def __init__(self, name, number):
         self.name = name
         self.number = 0
 
