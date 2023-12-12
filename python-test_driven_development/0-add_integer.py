@@ -7,6 +7,7 @@ Created: 30-OCT-2023
 Author: Prince Rurangwa (ruran8wa)
 Project name: 0x07-python-test_driven_development
 '''
+
 def add_integer(a, b=98):
     ''' Function that adds two integers
     Args:
